@@ -51,8 +51,9 @@
 > Java从编程语言到编程思想 https://www.imooc.com/learn/1154     
 > Maven使用 https://www.imooc.com/learn/443     
 > IntelliJ IDEA使用技巧 https://www.imooc.com/learn/924     
-    
+
 ##### 课程分数构成
+
 课程总成绩=平时和实验成绩50%+大作业50％ 
 - 平时成绩（10%）：作业上交情况；上课到课情况；对课堂的贡献程度； 
 - 实验成绩（40%）：作业完成度；作品水平；本学期会有4个评分作业，一个作业10%； 哪个是评分作业会明确说明。
