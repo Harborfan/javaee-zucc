@@ -11,6 +11,7 @@ import java.util.Properties;
  * @version 1.0
  * @date 2020-02-28 14:16
  */
+
 public class BankDsipatcherUtils {
     public static String readProperty(String name){
         File file = new File(BankDsipatcherUtils.class.getResource("/bank.properties").getPath());
@@ -26,7 +27,6 @@ public class BankDsipatcherUtils {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return null;
     }
 

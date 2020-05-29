@@ -1,5 +1,6 @@
 ### 课程简介
 ##### 后端开发概述
+
 软件技术作为现代社会的基石，后端软件作为互联网的“核心”，是一个程序员未来之路相当重要的组成部分。后端开发技术现在覆盖的领域非常广，常常被提及的微服务，大数据，人工智能，云计算这些都可以认为是后端技术，从语言及框架上又有Java一家、Python一家、GoLang一家、NodeJs一家.....反正是太多了，从必不可少的数据库上又有关系数据库一大家子、非关系数据库一大家子、ElasticSearch全文检索一家、分布式文件系统一大家子......，写出来就是告诉大家，就好像你不用玩所有的游戏一样：    
 
 ```
@@ -7,6 +8,7 @@
 ```
 
 ##### 课程目标
+
 作为当前最重要的后端设计技术和课程，我们期望同学们能在这个课程上亲手完成一个自己的完整后端软件作品。无论作品是不是有很高的技术含量，你自己的满意程度和成就感是最重要的，课程的主要目的就是让你对自己的成就感到满意。具体而言课程目标包括：  
 1. 巩固Java程序开发技术（除了基础，特别是多线程、反射、泛型、标注(Annotation)） 
 1. 掌握JavaEE基础~Servlet
@@ -15,8 +17,8 @@
 1. 后端架构及扩展（高级）：微服务框架、消息队列、MongoDB、ElasticSearch
 1. 完成一个完整的基于SpringMVC的应用程序
 
+##### 开发环境
 
-##### 开发环境  
 - IDE：自己选择合适的开发工具。建议IntelliJ IDEA或者Eclipse，老师使用的是IntelliJ IDEA，作为学生身份可以在官方网站免费申请教育许可；
 - Tomcat：8.0或以上，作为JavaEE服务器  
 - MySQL服务器：使用5.6  
@@ -43,7 +45,7 @@
 > Spring 官方学习文档：https://spring.io/projects/spring-framework#learn    
 > MOOC（spring）：https://www.imooc.com/learn/196     
 > MOOC（tomcat）：https://www.imooc.com/learn/1114     
-> Java 反射 https://www.imooc.com/learn/199     
+> -Java 反射 https://www.imooc.com/learn/199     
 > Java集合框架（4、5、6章） https://www.imooc.com/learn/110     
 > Java多线程 https://www.imooc.com/learn/202     
 > Java Synchronized与高并发 https://www.imooc.com/learn/1086     
